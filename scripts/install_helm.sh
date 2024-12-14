@@ -37,6 +37,4 @@
 
 # echo "Helm installation completed!"
 
-# completed!
-
-###
+# new update
